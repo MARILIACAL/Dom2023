@@ -1,1 +1,1 @@
-Criando um Sistema Bancário com Python # Dom2023
+Criando um Sistema Bancário com Python
